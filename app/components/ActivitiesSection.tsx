@@ -12,7 +12,7 @@ export default function ActivitiesSection() {
     { number: 'C-243', title: 'Ganja Gun', emoji: '🔫' },
     { number: 'C-244', title: 'Flip Tables', emoji: '🪑' },
     { number: 'C-245', title: 'Diddy\'s Basement', emoji: '👶' },
-    { number: 'C-246', title: 'Chut-Paglus', emoji: '🍑' },
+    { number: 'C-246', title: 'Mommies Assemble', emoji: '🍑' },
     { number: 'C-247', title: 'Inka Pta Nhi', emoji: '😵' },
     { number: 'C-248', title: 'Bengalies', emoji: '🐠' }
   ];
