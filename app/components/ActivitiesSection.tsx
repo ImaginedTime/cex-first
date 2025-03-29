@@ -123,7 +123,7 @@ export default function ActivitiesSection() {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end justify-center p-4">
               <span className="text-xl font-bold text-[#f79a24] bg-black/50 px-4 py-2 rounded-md backdrop-blur-sm">
-                C-Extension Floor Map
+                Cex People
               </span>
             </div>
           </motion.div>
